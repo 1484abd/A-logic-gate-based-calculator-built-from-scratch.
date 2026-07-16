@@ -13,4 +13,7 @@ a calculater made entierly from scratch only using logic gates
 # Progress
 Project started: July 2026
 and finished july 2026 any ways read jornal
+you have to have the digital its name is digital 
+this is its link
 
+https://github.com/hneemann/Digital
