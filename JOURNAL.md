@@ -23,20 +23,22 @@ and after that ofc we have to take the 4 bit adder and arange 2 of them and buil
 
 8 bit adder
 
-then ofc just its the same thing with 4 bit
+then we just do the same thing with 4 bit
 
 <img width="918" height="552" alt="لقطة شاشة 2026-07-16 172942" src="https://github.com/user-attachments/assets/6321c759-a24c-4c30-84c2-43f226cc87ba" />
 
-and we have 16 bits adder and subtracter we can make it 32 64 128 bits but lets stay with that
+and we have 16 bits adder and subtracter. we can make it 32 64 128 bits but lets stay with that
 
-now we make the multiplier this is where i really was going to give up so the 4 bit one is easy it took me like 30 min its just 3 4bit adders and some and gates:
+now we make the multiplier this is where i really was going to give up so the 4 bit one is easy it took me like 30 min. its just 3 4bit adders and some and gates:
 <img width="1322" height="558" alt="لقطة شاشة 2026-07-16 173027" src="https://github.com/user-attachments/assets/d8f3c0ec-e2aa-4c8a-8f0c-da83ed628f50" />
 
-and the 8 bit one is super hard i never built one i just started builing things with gates 2 weeks ago and now i have to face this monster:
+and the 8 bit one is super hard i never built one i just started builing things with logic gates 2 weeks ago and now i have to face this monster:
 
 <img width="516" height="387" alt="images (1)" src="https://github.com/user-attachments/assets/86242e1d-6dd9-4dcc-a1be-417263e713e2" />
 
-i want to say to the one who made this schematic 'why the hell you didnt name the inputs and outputs: it took me an hour even lapse thought i wasent on the pc i built it normally first
+i want to say to the one who made this schematic 'why the hell you didnt name the inputs and outputs: it took me an hour even lapse thought i wasent on the pc 
+
+i built it normally first
 
 <img width="780" height="470" alt="لقطة شاشة 2026-07-16 173129" src="https://github.com/user-attachments/assets/d3adb371-32c2-457a-830e-b3f58d334da1" />
 
@@ -44,7 +46,7 @@ but then i tested it
 
 <img width="910" height="448" alt="لقطة شاشة 2026-07-16 173149" src="https://github.com/user-attachments/assets/6deb4788-a75f-4304-9b44-ca83829d530e" />
 
-and guess what that calculation was wrong actually it gave 4*4 is 4096 so i was WHY! for like 30 min i was staring on the computer:
+and guess what that calculation was wrong actually it gave 4*4 is 4096 so i was "WHY!" for like 30 min i was staring on the computer:
 
 <img width="1434" height="606" alt="لقطة شاشة 2026-07-16 173248" src="https://github.com/user-attachments/assets/972e0dae-d202-4fe1-9832-9508f5e53765" />
 
