@@ -90,6 +90,32 @@ i just couldent have the tree for it :
 and done.thanks for reading this
 
 **Total time spent: 4 hours**
+okay same day new problem i have to make a playable one so i will use circuitverse to make it
+so i started like the same but this website is so hard to use:
+so a 1 bit adder:
 
+<img width="1434" height="642" alt="لقطة شاشة 2026-07-16 190409" src="https://github.com/user-attachments/assets/eee53ec5-d834-4362-9dc9-5761cee32962" />
 
+a 4bit adder:
 
+<img width="572" height="550" alt="لقطة شاشة 2026-07-16 192515" src="https://github.com/user-attachments/assets/d70ad8d0-f67c-4495-8edb-baa4b2042997" />
+
+a 8 bit adder:
+
+<img width="1438" height="688" alt="لقطة شاشة 2026-07-16 200744" src="https://github.com/user-attachments/assets/b4c24e55-807b-4df9-8693-2bfd7aee45f8" />
+
+a 16 bit adder:
+
+<img width="452" height="564" alt="لقطة شاشة 2026-07-16 213335" src="https://github.com/user-attachments/assets/a6fc422b-87b7-48dc-812b-656676cc8f98" />
+
+a 4 bit multiplier:
+
+<img width="1434" height="690" alt="لقطة شاشة 2026-07-16 213314" src="https://github.com/user-attachments/assets/6e5efb85-b351-4378-a6e9-ab1c6db11f12" />
+
+a 8 bit multiplier:
+
+<img width="780" height="534" alt="لقطة شاشة 2026-07-16 213325" src="https://github.com/user-attachments/assets/14b74c6c-b87c-4dd4-806a-14f2285fdb1a" />
+
+as always i was going to give up here.
+
+any ways i just have to assemble everything i will do it tommorow at the last day there is still 24 hours i belive
