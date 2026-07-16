@@ -5,7 +5,7 @@ description: "it works its a 8 bit multiplier and 16 bit adder and sub"
 created_at: "2026-07-16"
 ---
 
-# july 16: i finished it all
+# july 16: i finished it all(update not everything"
 so we go from the start of the project 
 
 <img width="688" height="360" alt="لقطة شاشة 2026-07-16 172900" src="https://github.com/user-attachments/assets/04fe7859-13aa-41f5-94dd-a40b87d42339" />
@@ -92,6 +92,7 @@ i just couldent have the tree for it :
 and done.thanks for reading this
 
 **Total time spent: 4 hours**
+
 okay same day new problem i have to make a playable one so i will use circuitverse to make it
 so i started like the same but this website is so hard to use:
 so a 1 bit adder:
