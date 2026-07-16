@@ -1,5 +1,8 @@
 # A-logic-gate-based-calculator-built-from-scratch.
 a calculater made entierly from scratch only using logic gates
+
+<img width="730" height="598" alt="image" src="https://github.com/user-attachments/assets/2818112f-8930-47f4-bd27-9155e110e084" />
+
 # Features
 - Addition
 - Subtraction
