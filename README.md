@@ -15,7 +15,7 @@ a calculater made entierly from scratch only using logic gates
 
 # Progress
 Project started: July 2026
-and finished july 2026 any ways read jornal
+and finished july 2026 any ways read journal
 you have to have the digital its name is digital 
 this is its link its a simulation app to simulate the logic gates in the calculator
 
