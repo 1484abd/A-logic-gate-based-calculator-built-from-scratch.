@@ -24,7 +24,8 @@ https://github.com/hneemann/Digital
 to check the playable online version use:
 
 https://circuitverse.org/users/438274/projects/calculator-made-by-abderrahmen-bouaraoui-8bit-miltiplication-and-16-bit-adder
-#the finishing product
+
+# the finishing product
 - a full 16 bit inputs(16 for the first number and 16 for the second one)
 - 16 bits outputs with the - sign
 - a 16 bit adder
