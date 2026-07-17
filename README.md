@@ -20,3 +20,7 @@ you have to have the digital its name is digital
 this is its link its a simulation app to simulate the logic gates in the calculator
 
 https://github.com/hneemann/Digital
+
+to check the playable online version use:
+
+https://circuitverse.org/users/438274/projects/calculator-made-by-abderrahmen-bouaraoui-8bit-miltiplication-and-16-bit-adder
