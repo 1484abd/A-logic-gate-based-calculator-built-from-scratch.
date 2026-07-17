@@ -1,7 +1,7 @@
 # A-logic-gate-based-calculator-built-from-scratch.
 a calculater made entierly from scratch only using logic gates
 
-<img width="730" height="598" alt="image" src="https://github.com/user-attachments/assets/2818112f-8930-47f4-bd27-9155e110e084" />
+<img width="730" height="598" alt="لقطة شاشة 2026-07-16 175608" src="https://github.com/user-attachments/assets/b24fbe41-aede-4009-bd53-4e41fbacc2cd" />
 
 # Features
 - Addition
@@ -31,4 +31,3 @@ https://circuitverse.org/users/438274/projects/calculator-made-by-abderrahmen-bo
 - a 16 bit subtractor with negative numbers(we turn those to positive and add the - sign)
 - a 8 bit multiplier
 - and a playable online version
-- 
