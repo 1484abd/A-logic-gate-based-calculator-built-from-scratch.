@@ -1,5 +1,9 @@
 # A-logic-gate-based-calculator-built-from-scratch.
 a calculater made entierly from scratch only using logic gates
+-and gates
+-or gates
+-no gates
+-xor gates
 
 <img width="730" height="598" alt="لقطة شاشة 2026-07-16 175608" src="https://github.com/user-attachments/assets/b24fbe41-aede-4009-bd53-4e41fbacc2cd" />
 
