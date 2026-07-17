@@ -124,7 +124,7 @@ as always i was going to give up here.
 any ways i just have to assemble everything i will do it tommorow at the last day there is still 24 hours i belive
 
 # july 17: i finished everything
-ok good today was the easiest i just built the neggative numbers:
+ok good today was the easiest i just built the negative numbers:
 
 <img width="626" height="496" alt="لقطة شاشة 2026-07-17 144316" src="https://github.com/user-attachments/assets/bf07e6bb-7dae-474f-8961-508f1b9951dc" />
 <img width="418" height="410" alt="لقطة شاشة 2026-07-17 144323" src="https://github.com/user-attachments/assets/f979e08c-6882-45b8-99fd-b905c365f9a0" />
