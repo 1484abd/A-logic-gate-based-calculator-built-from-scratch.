@@ -14,7 +14,7 @@ a calculater made entierly from scratch only using logic gates
 - Buttons
 
 # Progress
-Project started: July 2026
+Project started: 16 July 2026
 and finished 17 july 2026 any ways read **"journal"**
 
 to check it in your desktop download this simulator
