@@ -30,10 +30,16 @@ to check the playable online version use:
 
 https://circuitverse.org/users/438274/projects/calculator-made-by-abderrahmen-bouaraoui-8bit-miltiplication-and-16-bit-adder
 
-# the finishing product
+# what we have now
 - a full 16 bit inputs(16 for the first number and 16 for the second one)
 - 16 bits outputs with the - sign
 - a 16 bit adder
 - a 16 bit subtractor with negative numbers(we turn those to positive and add the - sign)
 - a 8 bit multiplier
 - and a playable online version
+# what we will build
+- building the full calculator will cost me a lot of money so i downsized it
+
+  <img width="837" height="1126" alt="image" src="https://github.com/user-attachments/assets/03e6b9e3-c9a6-4f95-9ea8-8dc8eccabc1c" />
+
+ok now thats done we just have to build the rest
