@@ -132,3 +132,5 @@ ok good today was the easiest i just built the negative numbers:
 then done all finished:
 
 <img width="908" height="540" alt="لقطة شاشة 2026-07-17 144338" src="https://github.com/user-attachments/assets/0a31845b-ddc7-46d7-922c-44c9c84d3dec" />
+
+#i stopped updating my journal here you can see it in my stardance account
