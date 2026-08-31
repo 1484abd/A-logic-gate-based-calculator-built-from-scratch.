@@ -1,0 +1,17 @@
+its sooo easy :
+if you want with only bread boards you can make it using:
+  -2xbig breadboards(800pins)
+  -6x74hc86
+  -6x74hc08
+  -4x74hc32
+  -400xmale male wires
+  (you can use 74LS too)
+and with the pcb files its easy too you will need:
+  -8xfull adder pcb (or 1 half adder and 7 full adders not recomanded though)
+  -1xinput pcb
+  -1xoutput pcb
+  -1xpower pcb
+  -8x74hc86
+  -8x74hc08
+  -8x74hc32 (7 if you have one half adder and 7 full adders)
+  -30x male male wires
