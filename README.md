@@ -30,11 +30,11 @@ to check the playable online version use:
 https://circuitverse.org/users/438274/projects/calculator-made-by-abderrahmen-bouaraoui-8bit-miltiplication-and-16-bit-adder
 
 # ok so what exactly did we achieve:
-now its finished
+now its finished:
 
 <img width="1280" height="720" alt="785677543_1382659644017848_544156149256050507_n_" src="https://github.com/user-attachments/assets/e2ff2987-8699-4827-a106-a6a3073dce2e" />
 
-it was harder then expected making it in real life was soo hard i even fried some components but based on that i made my pcbs
+it was harder then expected making it in real life was soo hard i even fried some components but based on that i made my pcbs:
 
 <img width="640" height="596" alt="لقطة شاشة 2026-08-30 103228" src="https://github.com/user-attachments/assets/c734b52c-f776-4e83-a1d0-659621516d74" />
 
