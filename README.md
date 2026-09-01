@@ -20,7 +20,6 @@ a calculater made entierly from scratch only using logic gates
 
 # Progress
 Project started: 16 July 2026
-and finished 17 july 2026 any ways read **"journal"**
 
 to check it in your desktop download this simulator
 
@@ -30,16 +29,17 @@ to check the playable online version use:
 
 https://circuitverse.org/users/438274/projects/calculator-made-by-abderrahmen-bouaraoui-8bit-miltiplication-and-16-bit-adder
 
-# what we have now
-- a full 16 bit inputs(16 for the first number and 16 for the second one)
-- 16 bits outputs with the - sign
-- a 16 bit adder
-- a 16 bit subtractor with negative numbers(we turn those to positive and add the - sign)
-- a 8 bit multiplier
-- and a playable online version
-# what we will build
-- building the full calculator will cost me a lot of money so i downsized it
+# ok so what exactly did we achieve:
+now its finished
 
-  <img width="837" height="1126" alt="image" src="https://github.com/user-attachments/assets/03e6b9e3-c9a6-4f95-9ea8-8dc8eccabc1c" />
+<img width="1280" height="720" alt="785677543_1382659644017848_544156149256050507_n_" src="https://github.com/user-attachments/assets/e2ff2987-8699-4827-a106-a6a3073dce2e" />
 
-ok now thats done we just have to build the rest
+it was harder then expected making it in real life was soo hard i even fried some components but based on that i made my pcbs
+
+<img width="640" height="596" alt="لقطة شاشة 2026-08-30 103228" src="https://github.com/user-attachments/assets/c734b52c-f776-4e83-a1d0-659621516d74" />
+
+<img width="2874" height="1620" alt="لقطة شاشة 2026-08-30 004824" src="https://github.com/user-attachments/assets/138fcd18-dcd3-4291-9ec3-4db62dd562af" />
+
+
+
+
