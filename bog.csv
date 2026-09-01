@@ -1,0 +1,13 @@
+Item,Part Name,Quantity,Description
+1,Full Adder PCB,8,Main logic board modules
+2,Input PCB,1,Input switch interface board
+3,Output PCB,1,LED display board
+4,Power PCB,1,Power distribution board
+5,74HC86 IC,8,Quad 2-input XOR gates
+6,74HC08 IC,8,Quad 2-input AND gates
+7,74HC32 IC,8,Quad 2-input OR gates (use 7 if using 1 half adder)
+8,Male-to-Male Wires,30,Interconnect wires
+9,Double Input Switches,17,Binary input selection
+10,LEDs,9,Output display indicators
+11,220 Ohm Resistors,9,Current-limiting resistors for LEDs
+12,100nF Capacitors,10,Decoupling power capacitors (Standard 0.1uF)
